@@ -10,4 +10,4 @@ cd ~
 bash <(curl -s -S -L https://raw.githubusercontent.com/idhyt/CentOS-DXF/master/dxfPublicNetInstallCentOS58.sh)
 ```
 
-upload you `pvf` and `publickey.pem` and exec `/home/run`
+upload your `pvf` and `publickey.pem` and exec `/home/run`
